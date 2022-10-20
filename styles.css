@@ -1,0 +1,64 @@
+body {
+    background-image:url("https://hdqwalls.com/wallpapers/galaxy-space-mu.jpg");    	
+background-size:100%;
+color:white;
+    font-family:arial;
+    }
+
+h1{
+    text-align:center;
+    margin:1em auto;
+     font-family:Italic;
+    }
+p{
+  font-size:20px;
+  text-align: center;
+}
+
+fieldset {
+width:500px;
+margin:auto;
+border:none;
+font-weight:bold;
+ 
+}
+
+.opacity{
+background-color:black;
+opacity:80%;
+
+}
+
+form {
+  width: 80vw;
+  max-width: 200px;
+  min-width: 350px;
+  margin:auto;
+}
+
+input{
+   background-color: white;
+  border: 1px solid white;
+  color: black;
+  margin: 10px 0 0 0;
+  width: 50%;
+  min-height: 2em;
+
+}
+textarea,select{
+   background-color: white;
+  border: 1px solid white;
+  color: black;
+  font-size: 12px;
+}
+
+textarea{
+width:350px;
+
+}
+
+.inline{
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
